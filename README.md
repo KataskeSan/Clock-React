@@ -13,11 +13,17 @@ Um projeto simples de **relógio digital** criado em **React** e rodando com **N
 
 react-clock/
 ├─ src/
+
 │ ├─ App.jsx # Componente principal do aplicativo
+
 │ ├─ Clock.jsx # Componente do relógio
+
 │ └─ main.jsx # Ponto de entrada do Vite
+
 ├─ package.json
+
 ├─ vite.config.js
+
 └─ README.md
 
 ## Como rodar o projeto
